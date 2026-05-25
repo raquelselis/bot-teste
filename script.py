@@ -10,3 +10,4 @@ requests.post(
         url=f"https://api.telegram.org/bot{os.getenv('TELEGRAM_TOKEN')}/sendMessage",
         data={"chat_id": 1042885840, "text": "Olá tudo bem?"}
     ).json()
+    asdgggfc
